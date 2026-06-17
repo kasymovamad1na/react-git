@@ -1,0 +1,9 @@
+.stars {
+  display: flex;
+  gap: 6px;
+}
+
+.stars img {
+  width: 30px;
+  height: 30px;
+}

@@ -1,0 +1,60 @@
+.hero {
+  max-width: 1300px;
+  margin: 50px auto;
+  padding: 0 40px;
+
+  display: flex;
+  justify-content: space-between;
+  gap: 60px;
+}
+
+
+.Section2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+}
+.host {
+  background-color: #0f0f0f;
+  color: white;
+  padding: 65px;
+  font-family: Regular;
+  margin-bottom: 15px;
+   
+}
+
+.host__smallTitle {
+  color: #4dd0e1;
+  font-size: 22x;
+  margin-bottom:33px;
+   
+}
+
+.host__name {
+  font-size: 48px;
+  font-weight: 700;
+  margin-bottom: 40px;
+ 
+}
+
+.host__text p {
+  color: #bdbdbd;
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 10px;
+
+}
+
+
+.Section2-right img {
+  width: 650px;
+  border-radius: 12px;
+
+
+}
+
+.button {
+    background-color: none;
+    color: #118DA8;
+}

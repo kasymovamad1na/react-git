@@ -1,0 +1,39 @@
+.hero {
+  max-width: 1300px;
+  margin: 50px auto;
+  padding: 0 40px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 60px;
+}
+
+.hero-left img {
+  width: 650px;
+  border-radius: 12px;
+}
+
+.hero-right {
+  color: white;
+}
+
+.hero-right h2 {
+  font-size: 72px;
+  font-weight: 400;
+  line-height: 1.1;
+  color: aliceblue;
+}
+
+.hero-right span {
+  font-weight: 700;
+}
+
+.listen {
+  margin-top: 80px;
+}
+
+.listen p {
+  color: white;
+  margin-bottom: 20px;
+}

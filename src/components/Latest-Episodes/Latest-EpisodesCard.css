@@ -1,0 +1,51 @@
+.card {
+  background: #000;
+  /* display: flex; */
+  justify-content: space-between;
+  gap: 50px;
+  border-radius: 32px;
+  padding: 40px;
+}
+
+.card-img {
+  max-width: 380px;
+  max-height: 450px;
+  object-fit: cover;
+  border-radius: 20px;
+}
+
+.card-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.tag {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 400;
+  background: #191919;
+  padding: 3px 16px;
+  border-radius: 6px;
+}
+
+.episode {
+  color: #00c2ff;
+  font-size: 17px;
+  margin-top: 48px;
+  margin-bottom: 18px;
+}
+
+.title {
+  color: white;
+  font-size: 64px;
+  font-weight: 400;
+  line-height: 1.1;
+}
+
+.desc {
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 22px;
+  margin-top: 28px;
+  margin-bottom: 18px;
+}
